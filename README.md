@@ -65,23 +65,6 @@ npm start
 The application will be available at http://localhost:3000
 .
 
-📂 Project Structure
-
-GestionDeEmpleados/
-├── client/             # Frontend in React
-│   ├── src/
-│   ├── public/
-│   └── package.json
-├── server/             # Backend in Node.js
-│   ├── controllers/
-│   ├── models/
-│   ├── routes/
-│   ├── db.js
-│   ├── database.sql
-│   └── server.js
-├── .gitignore
-└── README.md
-
 
 🎯 Features
 
@@ -185,21 +168,6 @@ npm start
 
 La aplicación estará disponible en http://localhost:3000.
 
-📂 Estructura del proyecto
-GestionDeEmpleados/
-├── client/             # Frontend en React
-│   ├── src/
-│   ├── public/
-│   └── package.json
-├── server/             # Backend en Node.js
-│   ├── controllers/
-│   ├── models/
-│   ├── routes/
-│   ├── db.js
-│   ├── database.sql
-│   └── server.js
-├── .gitignore
-└── README.md
 
 🎯 Funcionalidades
 
